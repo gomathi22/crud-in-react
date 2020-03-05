@@ -1,0 +1,46 @@
+body{
+    margin:0px;
+    background-color: rgb(102, 212, 58);
+  }
+.todo-name{
+    background-color:rgb(39, 134, 126);
+    text-align:center;
+    min-height:500px;
+    width:722px;
+    margin:30px auto;
+    border-radius:20px;
+  }
+.todo-form label{
+    background-color: rgb(192, 204, 255);
+    height:25px;
+    width:200px;
+    border-radius:5px;
+    padding:0px auto;
+    margin:15px;
+    color:black;
+    font-weight:bold;
+    padding-left:30px;
+  }
+  .list{
+    color:white;
+    background-color:purple;
+    margin:0px auto;
+    border-radius:5px;
+    text-align:left;
+    display:inline;
+    height:100px;
+    width:350px;
+}
+.list input{
+    background-color:transparent;
+    border:0px;
+    color:white;
+}
+button{
+    height:30px;
+    width:80px;
+    background-color: rgb(192, 204, 255);
+    border-radius:5px;
+    cursor:pointer;
+    font-weight:bold;
+  }
